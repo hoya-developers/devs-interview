@@ -1,6 +1,6 @@
 # Instructions
 
-Welcome to Hoya Devs's interview project.
+Welcome to Hoya Devs' interview project.
 
 In this project, you will need to fix certain bugs within the starter code provided to you.
 
@@ -10,12 +10,12 @@ You will submit a CodeSandbox or GitHub link with your response.
 
 ### Prerequisites
 
-- ([`node`](https://nodejs.org/en))
-- `npm` or ([`yarn`](https://yarnpkg.com/))
+- [`node`](https://nodejs.org/en)
+- `npm` or [`yarn`](https://yarnpkg.com/)
 
 ### Coding
 
-You are free to use any IDE, we would recommend VSCode. If you choose to use an online editor like CodeSandbox, look at these ([resources](https://codesandbox.io/docs/importing#import-local-projects-via-cli)).
+You are free to use any IDE, we would recommend VSCode. If you choose to use an online editor like CodeSandbox, look at these [resources](https://codesandbox.io/docs/importing#import-local-projects-via-cli).
 
 #### Run the server locally
 
