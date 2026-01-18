@@ -1,38 +1,21 @@
 # Instructions
 
-Welcome to Ramp's frontend interview challenge.
+Welcome to Hoya Devs's interview project.
 
-In this challenge, you will need to fix certain bugs within the starter code provided to you.
+In this project, you will need to fix certain bugs within the starter code provided to you.
 
 The bugs **do not depend on each other**, so you can solve them independently.
 
-You will submit a CodeSandbox link with your response.
+You will submit a CodeSandbox or GitHub link with your response.
 
 ### Prerequisites
 
-- `node`
-- `npm` or `yarn`
-- [CodeSandbox](https://codesandbox.io)
+- ([`node`](https://nodejs.org/en))
+- `npm` or ([`yarn`](https://yarnpkg.com/))
 
 ### Coding
 
-Since you need to submit a CodeSandbox link with your response (_See [Submission](#submission)_), we recommend that you create the CodeSandbox first, solve the bugs in your generated CodeSandbox, and then share the link with us. _You can also work locally first, and upload at the end._
-
-#### Upload the project to CodeSandbox
-
-**NOTE: Make sure your CodeSandbox link can be edited. If your link is Read only, you will be disqualified as we are not able to grade your assignment. We strongly recommend you use this method to upload your project (with the CLI) rather than importing directly from Github to generate a CodeSandbox, as it makes it Read only by default.**
-
-- Run `yarn install` or `npm install`
-- Run `yarn upload` or `npm run upload`
-- If this is the first time using CodeSandbox CLI, it will ask you to log in with Github first
-- You might be prompted: **We will upload XXX static files to your CodeSandbox upload storage** and then a list of files (typically `DS_Store` or `desktop.ini` files). It's fine if you upload with these, or you can manually remove them before uploading.
-- Confirm that you want to proceed with deployment
-- Once it finishes, you will get the link for your CodeSandbox. Also, you can log in to the website with your Github account and see your projects to retrieve the link.
-- Start working directly on the CodeSandbox
-
-_Reference: https://codesandbox.io/docs/importing#import-local-projects-via-cli_
-
-Or
+You are free to use any IDE, we would recommend VSCode. If you choose to use an online editor like CodeSandbox, look at these ([resources](https://codesandbox.io/docs/importing#import-local-projects-via-cli)).
 
 #### Run the server locally
 
@@ -44,7 +27,7 @@ Or
 
 #### Typescript
 
-At Ramp, we use React + Typescript in our codebase.
+Hoya Devs primarily uses React and Typescript on our projects.
 
 You are not required to know Typescript and using it in this challenge is optional. We have abstracted most of the Typescript code into its own files (_types.ts_), so feel free to ignore those. All of the bugs can be solved without Typescript.
 
@@ -191,7 +174,13 @@ _You need to fix some of the previous bugs in order to reproduce_
 
 ## Submission
 
-**IMPORTANT:** Before sharing your CodeSandbox, open the `email.txt` file and replace your email on the only line of the file. Don't use any prefix or suffix, just your email.
+There are two options to submit your work. For either one, please send a link in response to the email you recieved with instructions for this interview.
+
+### GitHub
+
+You will submit a link to your GitHub repo with your responses. Make sure your repo is publically available.
+
+### CodeSandbox
 
 You will submit a link to a CodeSandbox with your responses. Make sure your CodeSandbox is not Read only and can be edited, otherwise you will be disqualified. _See [Coding](#coding)_
 
